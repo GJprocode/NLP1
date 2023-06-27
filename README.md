@@ -8,7 +8,7 @@
 ## 3.3 Create a virtual environment
 ### py -m pip install virtualenv (Instal virtual environment)
 ### virtualenv 'env1' - (create virtual environment and give it a name)
-### env1\scripts\activate (activate virtual environment that stored all your modules for your project)
+### env1\scripts\activate (activate virtual environment that stores all your modules for your project)
 ## 3.4 Install requirements.txt, (this will install all the modules you will need to run this app)
 ### py -m pip install -r requirements.txt
 ## 3.5 run you app  (not containerized before deploy, see Docker section 3.6)

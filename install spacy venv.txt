@@ -1,0 +1,4 @@
+py -m venv ven1
+ven1\scripts\activate
+py -m pip install spacy
+py -m pip install spacy

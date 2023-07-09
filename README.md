@@ -1,5 +1,15 @@
-## NLP1 (Natural Language Processing) Play
+## *NLP1 (Natural Language Processing) Play/exmaples*
+## *What this python app does.* 
+##### Python spacy module is imported, which provides natural language 
+##### processing capabilities. 1. Word objects are defined and their similarity is calculated using both sm & md language models. 
+##### 2. The Code demonstrates how to work with word vectors. It creates word objects for the words "human," "alien," "shoe," and "sock" 
+##### and measures the similarity between all pairs of words. 
+##### 3. The third set of code compares the similarity between a given sentence
+##### and a list of other sentences. It uses the loaded model to
+##### calculate the similarity and prints the sentences along with
+##### their respective similarity scores.
 
+## *Installation and runnining instructions.* 
 ### IDE used = Virtual Studio, OP = Windows 11, Language = Python
 ### 3.1 Clone repository with command below. Must have Git & Github installed.
 #### git clone https://github.com/CrypticDG/NLP1

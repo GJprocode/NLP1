@@ -12,7 +12,7 @@ https://github.com/CrypticDG/NLP1/blob/master/README.md
 ###### env1\scripts\activate (activate virtual environment that stores all your modules for your project)
 ###### 3.4 Install requirements.txt, (this will install all the modules you will need to run this app)
 ###### py -m pip install -r requirements.txt
-###### 3.5 run you app  (not containerized before deploy, see Docker section 3.6)
+###### 3.5 run youre app  (not containerized before deploy, see Docker section 3.6)
 ###### run terminal
 ###### 3.6 Docker(Have Docker Hub and Docker desktop installed)
 ###### Run in terminal: docker build -t nlp1 .    

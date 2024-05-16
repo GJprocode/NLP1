@@ -61,6 +61,6 @@ print("ORG:", spacy.explain("ORG"))
 # Falkland Islands Government
 # Therefore Flaklands itself I think should be and island, aka GPE enitity
 # but there was a war, so ORG applies, I think, based on actual 
-# newspaper article, org is sufficcient 
+# newspaper article, org is sufficient.
 
 

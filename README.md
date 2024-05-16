@@ -1,5 +1,4 @@
 #### *NLP1 (Natural Language Processing) Play/exmaples*
-https://github.com/CrypticDG/NLP1/blob/master/README.md
 #### *Installation and runnining instructions.* 
 ###### IDE used = Virtual Studio, OP = Windows 11, Language = Python
 ###### 3.1 Clone repository with command below. Must have Git & Github installed.
